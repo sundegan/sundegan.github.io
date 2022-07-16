@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
+      <link>https://sundegan.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://sundegan.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
       <title>Golang Gin 实战（三）| 路由参数</title>
       <link>https://sundegan.github.io/post/2019-12-13-golang-gin-parameters-in-path/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>

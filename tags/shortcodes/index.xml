@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>shortcodes - 标签 - 秋白听雨</title>
+        <link>https://sundegan.github.io/tags/shortcodes/</link>
+        <description>shortcodes - 标签 - 秋白听雨</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2226523482@qq.com (秋白听雨)</managingEditor>
+            <webMaster>2226523482@qq.com (秋白听雨)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</lastBuildDate><atom:link href="https://sundegan.github.io/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - 扩展 Shortcodes</title>
+    <link>https://sundegan.github.io/theme-documentation-extended-shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://sundegan.github.io/theme-documentation-extended-shortcodes/</guid>
+    <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>]]></description>
+</item>
+</channel>
+</rss>

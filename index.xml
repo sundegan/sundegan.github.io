@@ -1,0 +1,34 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>秋白听雨</title>
+        <link>https://sundegan.github.io/</link>
+        <description>秋白听雨的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2226523482@qq.com (秋白听雨)</managingEditor>
+            <webMaster>2226523482@qq.com (秋白听雨)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate>
+            <atom:link href="https://sundegan.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>主题文档 - 内容</title>
+    <link>https://sundegan.github.io/theme-documentation-content/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://sundegan.github.io/theme-documentation-content/</guid>
+    <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
+</item>
+<item>
+    <title>主题文档 - 扩展 Shortcodes</title>
+    <link>https://sundegan.github.io/theme-documentation-extended-shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://sundegan.github.io/theme-documentation-extended-shortcodes/</guid>
+    <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>]]></description>
+</item>
+<item>
+    <title>开篇</title>
+    <link>https://sundegan.github.io/%E5%BC%80%E7%AF%87/</link>
+    <pubDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</pubDate>
+    <author>秋白听雨</author>
+    <guid>https://sundegan.github.io/%E5%BC%80%E7%AF%87/</guid>
+    <description><![CDATA[开篇 aaa bab Ccc]]></description>
+</item>
+</channel>
+</rss>

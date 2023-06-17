@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 孙德淦的博客</title>
+    <link>https://sundegan.github.io/tags/linux/</link>
+    <description>Recent content in Linux on 孙德淦的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://sundegan.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://sundegan.github.io/2013/10/docker/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://sundegan.github.io/2013/10/docker/</guid>
+      <description>MapReduce：在大型集群上简化数据处理 摘要 MapReduce是一个用于处理和生成大型数据集的编程模型和相关实现。 用户指定一个map函数</description>
+    </item>
+    
+    <item>
+      <title>Linux netstat命令详解</title>
+      <link>https://sundegan.github.io/2013/10/linux-netstat%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://sundegan.github.io/2013/10/linux-netstat%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</guid>
+      <description>&lt;p&gt;详细介绍Linux netstat命令的使用和各个参数的含义。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
